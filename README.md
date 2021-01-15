@@ -1,9 +1,11 @@
-
 Hidden Markov Model (HMM) for Named-Entity Recognition (NER)
 Goals :
 1. A presentation of HMM
 2. Formal definitions on inference and learning with HMM
 3. An application Named-Entity Recognition (NER)
+
+
+![alt text](http://romain.raveaux.free.fr/document/hmmmodel.PNG "A HMM Model")
 
 Conclusion
 1. We have implemented a Hidden Markov Model for named-entity recognition.
